@@ -1,0 +1,35 @@
+{
+  "author": {
+    "email": "alonzorz@gmail.com",
+    "name": "Alon Bukai",
+    "url": "https://www.AlonBukai.com"
+  },
+  "description": "MultiSend is an Ethereum contract for sending multiple ETH/ERC20 Tokens to multiple addresses",
+  "displayName": "Solidity MultiSend",
+  "contributors": [
+    {
+      "email": "quazia@giveth.io",
+      "name": "Arthur Lunn",
+      "url": "giveth.io"
+    },
+    {
+      "email": "lastperson+multisend@gmail.com",
+      "name": "Oleksii Matiiasevych",
+      "url": "https://www.facebook.com/oleksii.matiiasevych"
+    },
+    {
+      "email": "griff@giveth.io",
+      "name": "Griff Green",
+      "url": "giveth.io"
+    }
+  ],
+  "name": "multisend",
+  "version": "0.1.0",
+  "devDependencies": {
+    "truffle": "^4.0.4",
+    "eslint": "^4.15.0"
+  },
+  "dependencies": {
+    "giveth-common-contracts": "^0.4.0"
+  }
+}
